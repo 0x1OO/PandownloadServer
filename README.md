@@ -1,4 +1,4 @@
-# PandownloadServer - 专业百度网盘高速下载服务系统
+# PanDownload、PandownloadServer - 专业百度网盘高速下载服务系统
 
 ![Go Version](https://img.shields.io/badge/Go-1.25.0-blue.svg) ![Gin Framework](https://img.shields.io/badge/Gin-1.10.1-red.svg) ![License](https://img.shields.io/badge/License-Commercial-green.svg) ![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg)
 
